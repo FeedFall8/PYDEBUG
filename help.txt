@@ -1,0 +1,6 @@
+first open the command line
+
+once you do so proceed to place the script you wish to debug in the same dir as pydebug.exe
+
+then execute the command in cmd line:
+PYDEBUG <yourscript.py>
